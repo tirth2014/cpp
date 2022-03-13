@@ -42,8 +42,6 @@ public:
 
 // My Solution
 //Runtime: 210ms
-// C++ program to find the min and max element
-// of Vector using *min_element() in STL
 
 #include <bits/stdc++.h>
 using namespace std;
